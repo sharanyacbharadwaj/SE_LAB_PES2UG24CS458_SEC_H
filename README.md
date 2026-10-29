@@ -15,3 +15,4 @@
 | Lab 3 | Component Modelling & Architectural Pattern Selection | Document in this repo |
 | Lab 4 | Checkers | [21_checkers](https://github.com/sharanyacbharadwaj/21_checkers) |
 | Lab 5 | Static Code Analysis | [PES2UG24CS458_SE_Lab5_Static_Analysis](https://github.com/sharanyacbharadwaj/PES2UG24CS458_SE_Lab5_Static_Analysis) |
+| Lab 6 | Code and Branch Coverage Analysis | [Lab6](Lab6) folder in this repo |
